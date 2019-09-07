@@ -8,6 +8,9 @@ Uygulama özellikleri
 - Hava durumu bilgisinin ekrana yazdırılması
 
 https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
+
 https://www.geeksforgeeks.org/design-patterns-set-1-introduction/
+
 https://stackoverflow.com/questions/1688099/converting-json-data-to-java-object
+
 https://www.callicoder.com/java-singleton-design-pattern-example/
