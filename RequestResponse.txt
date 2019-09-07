@@ -1,0 +1,7 @@
+Request
+
+İstanbul
+
+Response
+
+WeathermapResponse [cod=200, name=null, weather=[Weather [id=null, main=Az bulutlu, description=Bulutlu, icon=null]], main=null]
